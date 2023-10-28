@@ -19,7 +19,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'winter.parsedown::lang.plugin.name',
             'description' => 'winter.parsedown::lang.plugin.description',
-            'author'      => 'Winter CMS Maintainers',
+            'author'      => 'Winter CMS',
             'icon'        => 'icon-markdown'
         ];
     }

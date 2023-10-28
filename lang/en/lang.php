@@ -3,7 +3,7 @@
 return [
     'plugin' => [
         'name' => 'Parsedown',
-        'description' => 'No description provided yet...',
+        'description' => 'Reverts Markdown parsing back to the Parsedown library.',
     ],
     'permissions' => [
         'some_permission' => 'Some permission',
